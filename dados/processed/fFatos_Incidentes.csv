@@ -1,0 +1,401 @@
+﻿ID_Incidente;ID_Sistema;Data_Ocorrencia;Downtime_Minutos;Causa_Raiz
+INC-10001;502;2026-04-13;16;Lock de Tabelas
+INC-10002;501;2026-04-17;2;Instabilidade de API
+INC-10003;501;2026-03-13;16;Falha de Autenticacao
+INC-10004;501;2026-07-08;3;Instabilidade de API
+INC-10005;501;2026-01-21;3;Instabilidade de API
+INC-10006;504;2026-04-13;27;Erro de Deploy
+INC-10007;503;2026-05-02;5;Manutencao Emergencial
+INC-10008;501;2026-08-03;4;Instabilidade de API
+INC-10009;504;2026-03-29;19;Erro de Deploy
+INC-10010;503;2026-04-10;13;Erro de Deploy
+INC-10011;502;2026-06-01;15;Overload de CPU
+INC-10012;502;2026-05-11;5;Lock de Tabelas
+INC-10013;501;2026-05-30;6;Estouro de Timeout
+INC-10014;501;2026-09-15;22;Instabilidade de API
+INC-10015;502;2026-07-11;15;Overload de CPU
+INC-10016;502;2026-06-10;20;Lock de Tabelas
+INC-10017;501;2026-01-22;6;Instabilidade de API
+INC-10018;504;2026-09-10;28;Erro de Deploy
+INC-10019;503;2026-08-24;11;Timeout de Rede
+INC-10020;501;2026-02-18;2;Instabilidade de API
+INC-10021;504;2026-02-28;33;Manutencao Emergencial
+INC-10022;504;2026-06-19;26;Timeout de Rede
+INC-10023;504;2026-07-07;32;Timeout de Rede
+INC-10024;501;2026-07-09;10;Instabilidade de API
+INC-10025;503;2026-06-24;24;Erro de Deploy
+INC-10026;502;2026-02-20;9;Lock de Tabelas
+INC-10027;503;2026-02-24;32;Manutencao Emergencial
+INC-10028;504;2026-09-01;44;Erro de Deploy
+INC-10029;503;2026-05-11;11;Erro de Deploy
+INC-10030;503;2026-05-15;36;Erro de Deploy
+INC-10031;504;2026-01-21;34;Manutencao Emergencial
+INC-10032;503;2026-06-16;23;Timeout de Rede
+INC-10033;502;2026-03-30;10;Lock de Tabelas
+INC-10034;501;2026-01-14;2;Instabilidade de API
+INC-10035;501;2026-08-30;8;Instabilidade de API
+INC-10036;504;2026-02-22;18;Manutencao Emergencial
+INC-10037;501;2026-04-02;6;Estouro de Timeout
+INC-10038;502;2026-02-04;19;Lock de Tabelas
+INC-10039;501;2026-07-25;8;Instabilidade de API
+INC-10040;502;2026-03-22;10;Overload de CPU
+INC-10041;504;2026-02-19;43;Manutencao Emergencial
+INC-10042;504;2026-01-02;36;Timeout de Rede
+INC-10043;501;2026-02-23;4;Estouro de Timeout
+INC-10044;504;2026-04-16;37;Manutencao Emergencial
+INC-10045;502;2026-09-17;101;Overload de CPU
+INC-10046;501;2026-07-10;18;Instabilidade de API
+INC-10047;503;2026-08-06;7;Manutencao Emergencial
+INC-10048;502;2026-02-13;32;Lock de Tabelas
+INC-10049;501;2026-06-11;2;Estouro de Timeout
+INC-10050;503;2026-07-21;7;Manutencao Emergencial
+INC-10051;501;2026-08-03;10;Instabilidade de API
+INC-10052;501;2026-09-09;2;Instabilidade de API
+INC-10053;502;2026-07-09;37;Overload de CPU
+INC-10054;501;2026-08-01;16;Instabilidade de API
+INC-10055;502;2026-07-27;32;Lock de Tabelas
+INC-10056;502;2026-08-25;13;Overload de CPU
+INC-10057;503;2026-02-22;11;Timeout de Rede
+INC-10058;503;2026-08-05;11;Erro de Deploy
+INC-10059;503;2026-09-09;27;Erro de Deploy
+INC-10060;503;2026-07-07;23;Erro de Deploy
+INC-10061;503;2026-02-10;23;Erro de Deploy
+INC-10062;501;2026-06-06;6;Falha de Autenticacao
+INC-10063;502;2026-01-15;47;Lock de Tabelas
+INC-10064;502;2026-03-06;12;Lock de Tabelas
+INC-10065;501;2026-01-09;9;Instabilidade de API
+INC-10066;502;2026-05-09;29;Lock de Tabelas
+INC-10067;502;2026-05-16;25;Lock de Tabelas
+INC-10068;503;2026-03-04;39;Timeout de Rede
+INC-10069;504;2026-05-19;26;Erro de Deploy
+INC-10070;502;2026-03-22;55;Lock de Tabelas
+INC-10071;501;2026-06-12;19;Estouro de Timeout
+INC-10072;501;2026-08-19;6;Instabilidade de API
+INC-10073;504;2026-02-10;18;Erro de Deploy
+INC-10074;504;2026-01-28;44;Timeout de Rede
+INC-10075;501;2026-05-15;10;Instabilidade de API
+INC-10076;503;2026-07-20;26;Manutencao Emergencial
+INC-10077;501;2026-02-02;6;Instabilidade de API
+INC-10078;501;2026-02-17;20;Estouro de Timeout
+INC-10079;501;2026-03-03;11;Falha de Autenticacao
+INC-10080;501;2026-08-04;8;Falha de Autenticacao
+INC-10081;504;2026-04-09;42;Timeout de Rede
+INC-10082;503;2026-06-21;21;Erro de Deploy
+INC-10083;501;2026-08-02;10;Falha de Autenticacao
+INC-10084;503;2026-02-04;27;Erro de Deploy
+INC-10085;504;2026-08-15;26;Erro de Deploy
+INC-10086;504;2026-04-11;31;Erro de Deploy
+INC-10087;501;2026-05-11;4;Estouro de Timeout
+INC-10088;501;2026-09-14;4;Estouro de Timeout
+INC-10089;501;2026-01-05;7;Estouro de Timeout
+INC-10090;501;2026-08-06;16;Instabilidade de API
+INC-10091;501;2026-09-12;13;Instabilidade de API
+INC-10092;502;2026-07-26;15;Falha de Hardware
+INC-10093;501;2026-01-15;3;Instabilidade de API
+INC-10094;501;2026-02-11;13;Instabilidade de API
+INC-10095;501;2026-06-28;16;Instabilidade de API
+INC-10096;501;2026-03-04;21;Estouro de Timeout
+INC-10097;501;2026-08-19;9;Falha de Autenticacao
+INC-10098;502;2026-08-29;17;Falha de Hardware
+INC-10099;501;2026-02-21;3;Instabilidade de API
+INC-10100;501;2026-04-06;4;Estouro de Timeout
+INC-10101;502;2026-08-10;9;Overload de CPU
+INC-10102;502;2026-08-19;51;Falha de Hardware
+INC-10103;501;2026-08-25;3;Estouro de Timeout
+INC-10104;501;2026-05-23;7;Instabilidade de API
+INC-10105;501;2026-06-20;5;Instabilidade de API
+INC-10106;504;2026-01-29;44;Timeout de Rede
+INC-10107;502;2026-02-05;20;Lock de Tabelas
+INC-10108;502;2026-01-13;7;Lock de Tabelas
+INC-10109;504;2026-06-09;34;Timeout de Rede
+INC-10110;501;2026-07-06;9;Instabilidade de API
+INC-10111;504;2026-08-31;21;Timeout de Rede
+INC-10112;502;2026-03-27;34;Lock de Tabelas
+INC-10113;501;2026-03-07;2;Falha de Autenticacao
+INC-10114;502;2026-06-19;40;Overload de CPU
+INC-10115;503;2026-02-14;21;Manutencao Emergencial
+INC-10116;502;2026-03-03;37;Overload de CPU
+INC-10117;504;2026-05-14;12;Erro de Deploy
+INC-10118;501;2026-01-28;20;Estouro de Timeout
+INC-10119;503;2026-04-18;30;Erro de Deploy
+INC-10120;501;2026-02-13;25;Instabilidade de API
+INC-10121;503;2026-05-08;14;Manutencao Emergencial
+INC-10122;502;2026-08-19;188;Lock de Tabelas
+INC-10123;501;2026-07-09;7;Instabilidade de API
+INC-10124;501;2026-08-13;3;Estouro de Timeout
+INC-10125;501;2026-05-01;3;Instabilidade de API
+INC-10126;501;2026-04-26;6;Estouro de Timeout
+INC-10127;501;2026-08-21;12;Instabilidade de API
+INC-10128;503;2026-09-16;39;Timeout de Rede
+INC-10129;502;2026-07-17;23;Overload de CPU
+INC-10130;503;2026-05-17;18;Manutencao Emergencial
+INC-10131;504;2026-06-14;28;Manutencao Emergencial
+INC-10132;502;2026-08-13;25;Lock de Tabelas
+INC-10133;503;2026-08-22;7;Erro de Deploy
+INC-10134;503;2026-06-21;44;Timeout de Rede
+INC-10135;501;2026-06-01;12;Instabilidade de API
+INC-10136;501;2026-06-09;5;Estouro de Timeout
+INC-10137;501;2026-04-06;14;Instabilidade de API
+INC-10138;501;2026-08-21;9;Falha de Autenticacao
+INC-10139;501;2026-06-29;9;Instabilidade de API
+INC-10140;501;2026-04-23;2;Falha de Autenticacao
+INC-10141;504;2026-02-21;34;Manutencao Emergencial
+INC-10142;503;2026-04-23;17;Erro de Deploy
+INC-10143;501;2026-04-11;5;Falha de Autenticacao
+INC-10144;501;2026-04-23;2;Instabilidade de API
+INC-10145;501;2026-03-22;2;Instabilidade de API
+INC-10146;502;2026-07-06;5;Lock de Tabelas
+INC-10147;502;2026-04-23;26;Lock de Tabelas
+INC-10148;503;2026-01-02;14;Timeout de Rede
+INC-10149;501;2026-05-10;6;Instabilidade de API
+INC-10150;503;2026-08-08;9;Erro de Deploy
+INC-10151;504;2026-02-23;34;Erro de Deploy
+INC-10152;501;2026-08-12;2;Instabilidade de API
+INC-10153;503;2026-08-13;34;Timeout de Rede
+INC-10154;502;2026-05-06;13;Lock de Tabelas
+INC-10155;502;2026-05-10;6;Lock de Tabelas
+INC-10156;502;2026-02-22;114;Lock de Tabelas
+INC-10157;503;2026-06-21;28;Manutencao Emergencial
+INC-10158;502;2026-08-06;79;Overload de CPU
+INC-10159;503;2026-06-09;10;Manutencao Emergencial
+INC-10160;504;2026-07-17;28;Manutencao Emergencial
+INC-10161;502;2026-09-04;63;Falha de Hardware
+INC-10162;504;2026-07-22;11;Manutencao Emergencial
+INC-10163;502;2026-07-03;17;Overload de CPU
+INC-10164;502;2026-05-03;11;Overload de CPU
+INC-10165;502;2026-09-12;8;Lock de Tabelas
+INC-10166;501;2026-04-08;5;Instabilidade de API
+INC-10167;503;2026-07-17;7;Timeout de Rede
+INC-10168;502;2026-08-28;45;Overload de CPU
+INC-10169;502;2026-05-24;11;Lock de Tabelas
+INC-10170;504;2026-04-07;24;Timeout de Rede
+INC-10171;501;2026-07-20;7;Instabilidade de API
+INC-10172;502;2026-05-04;23;Lock de Tabelas
+INC-10173;503;2026-07-06;21;Manutencao Emergencial
+INC-10174;503;2026-09-16;36;Manutencao Emergencial
+INC-10175;502;2026-05-28;11;Lock de Tabelas
+INC-10176;503;2026-09-09;29;Erro de Deploy
+INC-10177;503;2026-05-27;8;Timeout de Rede
+INC-10178;501;2026-05-28;17;Instabilidade de API
+INC-10179;501;2026-07-18;5;Instabilidade de API
+INC-10180;502;2026-05-08;21;Lock de Tabelas
+INC-10181;501;2026-02-08;17;Instabilidade de API
+INC-10182;501;2026-05-09;5;Falha de Autenticacao
+INC-10183;502;2026-05-31;38;Lock de Tabelas
+INC-10184;501;2026-04-09;4;Instabilidade de API
+INC-10185;502;2026-09-09;34;Lock de Tabelas
+INC-10186;502;2026-05-24;24;Falha de Hardware
+INC-10187;502;2026-04-22;7;Overload de CPU
+INC-10188;502;2026-03-01;124;Lock de Tabelas
+INC-10189;503;2026-01-02;36;Timeout de Rede
+INC-10190;501;2026-09-11;9;Falha de Autenticacao
+INC-10191;503;2026-05-20;44;Timeout de Rede
+INC-10192;502;2026-02-06;24;Overload de CPU
+INC-10193;504;2026-06-09;37;Timeout de Rede
+INC-10194;502;2026-01-09;23;Overload de CPU
+INC-10195;504;2026-08-21;32;Erro de Deploy
+INC-10196;502;2026-04-09;9;Lock de Tabelas
+INC-10197;501;2026-05-27;5;Instabilidade de API
+INC-10198;503;2026-07-27;40;Manutencao Emergencial
+INC-10199;501;2026-05-11;11;Instabilidade de API
+INC-10200;501;2026-06-01;19;Falha de Autenticacao
+INC-10201;501;2026-02-23;7;Falha de Autenticacao
+INC-10202;502;2026-04-30;5;Overload de CPU
+INC-10203;502;2026-06-10;11;Falha de Hardware
+INC-10204;501;2026-04-26;2;Estouro de Timeout
+INC-10205;504;2026-03-16;17;Erro de Deploy
+INC-10206;501;2026-04-23;4;Instabilidade de API
+INC-10207;501;2026-04-14;2;Instabilidade de API
+INC-10208;501;2026-09-11;8;Instabilidade de API
+INC-10209;501;2026-08-15;5;Instabilidade de API
+INC-10210;502;2026-04-22;47;Lock de Tabelas
+INC-10211;503;2026-04-09;23;Timeout de Rede
+INC-10212;502;2026-06-02;5;Lock de Tabelas
+INC-10213;501;2026-07-13;16;Instabilidade de API
+INC-10214;501;2026-06-12;3;Estouro de Timeout
+INC-10215;501;2026-07-27;14;Instabilidade de API
+INC-10216;504;2026-06-18;40;Timeout de Rede
+INC-10217;501;2026-06-10;25;Instabilidade de API
+INC-10218;502;2026-03-09;41;Overload de CPU
+INC-10219;504;2026-05-15;5;Timeout de Rede
+INC-10220;502;2026-07-14;29;Lock de Tabelas
+INC-10221;504;2026-05-08;18;Manutencao Emergencial
+INC-10222;501;2026-02-02;29;Estouro de Timeout
+INC-10223;503;2026-06-25;39;Erro de Deploy
+INC-10224;502;2026-01-22;17;Lock de Tabelas
+INC-10225;503;2026-08-26;37;Timeout de Rede
+INC-10226;501;2026-06-07;5;Falha de Autenticacao
+INC-10227;501;2026-02-07;4;Instabilidade de API
+INC-10228;501;2026-08-18;3;Instabilidade de API
+INC-10229;503;2026-02-20;8;Erro de Deploy
+INC-10230;503;2026-01-27;39;Erro de Deploy
+INC-10231;503;2026-08-14;43;Manutencao Emergencial
+INC-10232;501;2026-04-07;14;Estouro de Timeout
+INC-10233;504;2026-05-27;36;Timeout de Rede
+INC-10234;501;2026-01-04;13;Instabilidade de API
+INC-10235;501;2026-02-04;3;Falha de Autenticacao
+INC-10236;501;2026-07-11;28;Instabilidade de API
+INC-10237;503;2026-02-18;33;Erro de Deploy
+INC-10238;501;2026-01-17;21;Falha de Autenticacao
+INC-10239;502;2026-06-21;88;Overload de CPU
+INC-10240;503;2026-08-08;9;Manutencao Emergencial
+INC-10241;501;2026-06-07;4;Instabilidade de API
+INC-10242;502;2026-02-15;37;Overload de CPU
+INC-10243;501;2026-01-06;3;Falha de Autenticacao
+INC-10244;501;2026-04-09;12;Estouro de Timeout
+INC-10245;502;2026-08-21;20;Lock de Tabelas
+INC-10246;501;2026-02-06;3;Instabilidade de API
+INC-10247;502;2026-06-30;7;Lock de Tabelas
+INC-10248;502;2026-04-05;20;Lock de Tabelas
+INC-10249;502;2026-04-09;5;Overload de CPU
+INC-10250;503;2026-07-07;28;Timeout de Rede
+INC-10251;502;2026-04-26;28;Overload de CPU
+INC-10252;502;2026-07-10;21;Lock de Tabelas
+INC-10253;502;2026-09-10;8;Overload de CPU
+INC-10254;501;2026-06-10;6;Instabilidade de API
+INC-10255;501;2026-09-13;7;Instabilidade de API
+INC-10256;504;2026-05-08;6;Manutencao Emergencial
+INC-10257;502;2026-01-18;108;Lock de Tabelas
+INC-10258;501;2026-08-11;6;Estouro de Timeout
+INC-10259;502;2026-02-23;17;Falha de Hardware
+INC-10260;501;2026-02-27;12;Estouro de Timeout
+INC-10261;504;2026-06-23;29;Erro de Deploy
+INC-10262;501;2026-04-24;26;Falha de Autenticacao
+INC-10263;501;2026-05-31;12;Estouro de Timeout
+INC-10264;501;2026-05-07;3;Instabilidade de API
+INC-10265;502;2026-06-04;26;Lock de Tabelas
+INC-10266;504;2026-04-14;26;Erro de Deploy
+INC-10267;501;2026-09-03;8;Instabilidade de API
+INC-10268;503;2026-06-25;37;Timeout de Rede
+INC-10269;501;2026-02-08;8;Falha de Autenticacao
+INC-10270;503;2026-06-19;34;Erro de Deploy
+INC-10271;501;2026-09-04;15;Instabilidade de API
+INC-10272;501;2026-01-26;5;Falha de Autenticacao
+INC-10273;503;2026-01-13;30;Timeout de Rede
+INC-10274;504;2026-02-05;19;Timeout de Rede
+INC-10275;504;2026-06-22;44;Manutencao Emergencial
+INC-10276;502;2026-01-20;8;Overload de CPU
+INC-10277;504;2026-05-22;13;Timeout de Rede
+INC-10278;501;2026-05-23;9;Estouro de Timeout
+INC-10279;504;2026-04-02;16;Timeout de Rede
+INC-10280;502;2026-08-03;29;Overload de CPU
+INC-10281;503;2026-02-20;11;Manutencao Emergencial
+INC-10282;503;2026-06-02;24;Timeout de Rede
+INC-10283;503;2026-07-05;26;Timeout de Rede
+INC-10284;502;2026-03-04;21;Lock de Tabelas
+INC-10285;502;2026-07-09;9;Lock de Tabelas
+INC-10286;503;2026-05-05;22;Timeout de Rede
+INC-10287;501;2026-05-30;9;Estouro de Timeout
+INC-10288;504;2026-02-27;29;Erro de Deploy
+INC-10289;503;2026-06-29;23;Manutencao Emergencial
+INC-10290;501;2026-06-19;7;Estouro de Timeout
+INC-10291;503;2026-02-23;33;Manutencao Emergencial
+INC-10292;502;2026-04-11;19;Lock de Tabelas
+INC-10293;503;2026-02-22;22;Timeout de Rede
+INC-10294;503;2026-03-01;22;Manutencao Emergencial
+INC-10295;501;2026-04-18;4;Falha de Autenticacao
+INC-10296;502;2026-01-05;97;Overload de CPU
+INC-10297;504;2026-04-13;14;Manutencao Emergencial
+INC-10298;501;2026-07-15;11;Instabilidade de API
+INC-10299;502;2026-02-16;5;Lock de Tabelas
+INC-10300;501;2026-05-24;6;Falha de Autenticacao
+INC-10301;502;2026-05-04;37;Overload de CPU
+INC-10302;502;2026-04-16;18;Lock de Tabelas
+INC-10303;502;2026-06-07;16;Falha de Hardware
+INC-10304;501;2026-05-27;2;Falha de Autenticacao
+INC-10305;503;2026-05-25;36;Erro de Deploy
+INC-10306;501;2026-04-30;6;Estouro de Timeout
+INC-10307;501;2026-04-02;7;Falha de Autenticacao
+INC-10308;501;2026-02-27;20;Instabilidade de API
+INC-10309;501;2026-08-17;4;Estouro de Timeout
+INC-10310;502;2026-04-27;65;Lock de Tabelas
+INC-10311;502;2026-05-07;29;Overload de CPU
+INC-10312;503;2026-05-09;19;Erro de Deploy
+INC-10313;501;2026-02-27;3;Estouro de Timeout
+INC-10314;504;2026-05-02;34;Manutencao Emergencial
+INC-10315;503;2026-01-01;18;Timeout de Rede
+INC-10316;502;2026-08-27;22;Lock de Tabelas
+INC-10317;504;2026-04-06;42;Erro de Deploy
+INC-10318;504;2026-05-06;18;Manutencao Emergencial
+INC-10319;501;2026-04-28;5;Estouro de Timeout
+INC-10320;501;2026-02-17;3;Instabilidade de API
+INC-10321;504;2026-03-30;32;Timeout de Rede
+INC-10322;503;2026-08-25;39;Erro de Deploy
+INC-10323;501;2026-07-08;2;Estouro de Timeout
+INC-10324;503;2026-07-11;16;Erro de Deploy
+INC-10325;503;2026-03-10;27;Manutencao Emergencial
+INC-10326;503;2026-09-04;35;Manutencao Emergencial
+INC-10327;503;2026-03-17;14;Manutencao Emergencial
+INC-10328;503;2026-06-03;18;Timeout de Rede
+INC-10329;501;2026-05-24;6;Estouro de Timeout
+INC-10330;501;2026-03-27;3;Instabilidade de API
+INC-10331;502;2026-07-04;27;Falha de Hardware
+INC-10332;504;2026-08-08;24;Erro de Deploy
+INC-10333;501;2026-03-10;9;Instabilidade de API
+INC-10334;502;2026-02-16;24;Overload de CPU
+INC-10335;503;2026-04-04;32;Manutencao Emergencial
+INC-10336;502;2026-08-26;55;Lock de Tabelas
+INC-10337;503;2026-07-23;24;Timeout de Rede
+INC-10338;504;2026-08-06;18;Timeout de Rede
+INC-10339;502;2026-02-08;8;Lock de Tabelas
+INC-10340;502;2026-04-10;6;Overload de CPU
+INC-10341;502;2026-09-11;11;Lock de Tabelas
+INC-10342;502;2026-08-10;7;Lock de Tabelas
+INC-10343;501;2026-01-23;9;Estouro de Timeout
+INC-10344;501;2026-09-07;6;Instabilidade de API
+INC-10345;502;2026-01-10;33;Lock de Tabelas
+INC-10346;501;2026-09-03;5;Falha de Autenticacao
+INC-10347;501;2026-04-10;8;Instabilidade de API
+INC-10348;502;2026-06-29;23;Lock de Tabelas
+INC-10349;502;2026-08-11;23;Lock de Tabelas
+INC-10350;501;2026-09-07;3;Instabilidade de API
+INC-10351;503;2026-05-27;12;Timeout de Rede
+INC-10352;503;2026-04-06;25;Erro de Deploy
+INC-10353;501;2026-09-14;12;Instabilidade de API
+INC-10354;504;2026-01-04;42;Erro de Deploy
+INC-10355;502;2026-01-16;87;Lock de Tabelas
+INC-10356;503;2026-09-04;5;Manutencao Emergencial
+INC-10357;502;2026-09-15;101;Lock de Tabelas
+INC-10358;504;2026-06-09;34;Timeout de Rede
+INC-10359;503;2026-06-01;22;Erro de Deploy
+INC-10360;503;2026-06-27;30;Manutencao Emergencial
+INC-10361;503;2026-06-12;44;Erro de Deploy
+INC-10362;501;2026-02-02;2;Falha de Autenticacao
+INC-10363;501;2026-06-28;11;Estouro de Timeout
+INC-10364;503;2026-04-11;23;Manutencao Emergencial
+INC-10365;502;2026-03-06;31;Lock de Tabelas
+INC-10366;503;2026-06-17;9;Erro de Deploy
+INC-10367;501;2026-02-12;2;Estouro de Timeout
+INC-10368;502;2026-02-13;191;Lock de Tabelas
+INC-10369;501;2026-01-12;32;Instabilidade de API
+INC-10370;502;2026-04-05;56;Overload de CPU
+INC-10371;502;2026-09-10;25;Overload de CPU
+INC-10372;502;2026-08-30;57;Lock de Tabelas
+INC-10373;502;2026-02-04;14;Overload de CPU
+INC-10374;502;2026-08-03;46;Overload de CPU
+INC-10375;502;2026-03-31;44;Lock de Tabelas
+INC-10376;503;2026-04-03;15;Erro de Deploy
+INC-10377;501;2026-03-31;3;Estouro de Timeout
+INC-10378;502;2026-04-25;5;Lock de Tabelas
+INC-10379;502;2026-04-15;16;Lock de Tabelas
+INC-10380;503;2026-07-15;25;Manutencao Emergencial
+INC-10381;502;2026-04-24;17;Lock de Tabelas
+INC-10382;503;2026-03-16;36;Erro de Deploy
+INC-10383;504;2026-08-05;39;Timeout de Rede
+INC-10384;501;2026-09-06;2;Estouro de Timeout
+INC-10385;501;2026-06-13;10;Estouro de Timeout
+INC-10386;502;2026-07-11;20;Lock de Tabelas
+INC-10387;501;2026-08-15;17;Estouro de Timeout
+INC-10388;502;2026-06-26;21;Lock de Tabelas
+INC-10389;504;2026-04-09;30;Erro de Deploy
+INC-10390;501;2026-02-05;5;Instabilidade de API
+INC-10391;501;2026-04-06;8;Estouro de Timeout
+INC-10392;501;2026-06-01;9;Estouro de Timeout
+INC-10393;503;2026-05-31;10;Timeout de Rede
+INC-10394;502;2026-07-09;36;Falha de Hardware
+INC-10395;501;2026-08-12;2;Instabilidade de API
+INC-10396;504;2026-02-06;20;Manutencao Emergencial
+INC-10397;503;2026-07-02;19;Erro de Deploy
+INC-10398;501;2026-01-13;10;Instabilidade de API
+INC-10399;503;2026-08-05;8;Erro de Deploy
+INC-10400;503;2026-03-03;17;Timeout de Rede

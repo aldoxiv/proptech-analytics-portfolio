@@ -1,0 +1,251 @@
+﻿ID_Cliente,Segmento,Regiao,Data_Abertura_Conta
+1001,Varejo,DF,2025-11-17
+1002,Corporate,DF,2025-12-08
+1003,Alta Renda,SP - Capital,2025-05-25
+1004,Varejo,RJ,2025-11-23
+1005,Varejo,SP - Interior,2025-08-05
+1006,Varejo,SP - Capital,2025-10-28
+1007,Varejo,SP - Interior,2025-05-12
+1008,Alta Renda,SP - Interior,2025-10-19
+1009,Alta Renda,RJ,2025-03-11
+1010,Alta Renda,SP - Interior,2025-09-09
+1011,Varejo,SP - Interior,2025-10-02
+1012,Corporate,RJ,2025-12-30
+1013,Alta Renda,SP - Interior,2025-07-01
+1014,Varejo,SP - Interior,2025-06-16
+1015,Varejo,SP - Interior,2025-04-01
+1016,Varejo,SP - Capital,2025-07-21
+1017,Varejo,SP - Capital,2025-12-12
+1018,Varejo,SP - Capital,2025-01-19
+1019,Varejo,RJ,2025-02-08
+1020,Varejo,DF,2025-05-06
+1021,Alta Renda,SP - Interior,2025-06-22
+1022,Varejo,SP - Interior,2025-05-21
+1023,Varejo,RJ,2025-08-30
+1024,Varejo,SP - Interior,2025-08-08
+1025,Varejo,SP - Capital,2025-05-06
+1026,Alta Renda,DF,2025-02-27
+1027,Varejo,MG,2025-05-28
+1028,Varejo,SP - Interior,2025-11-13
+1029,Varejo,SP - Capital,2025-12-27
+1030,Varejo,MG,2025-01-01
+1031,Alta Renda,DF,2025-12-14
+1032,Varejo,MG,2025-07-09
+1033,Varejo,SP - Capital,2025-07-10
+1034,Corporate,MG,2025-11-08
+1035,Corporate,RJ,2025-04-27
+1036,Alta Renda,MG,2025-05-14
+1037,Varejo,SP - Interior,2025-02-27
+1038,Varejo,SP - Interior,2025-02-13
+1039,Alta Renda,RJ,2025-06-22
+1040,Varejo,SP - Capital,2025-06-09
+1041,Varejo,SP - Interior,2025-06-22
+1042,Varejo,DF,2025-11-13
+1043,Varejo,SP - Interior,2025-10-30
+1044,Corporate,SP - Interior,2025-05-29
+1045,Varejo,SP - Capital,2025-03-21
+1046,Alta Renda,MG,2025-08-01
+1047,Varejo,SP - Interior,2025-07-22
+1048,Varejo,RJ,2025-09-09
+1049,Varejo,MG,2025-08-17
+1050,Varejo,DF,2025-06-13
+1051,Corporate,SP - Capital,2025-08-15
+1052,Alta Renda,DF,2025-05-27
+1053,Corporate,MG,2025-01-20
+1054,Alta Renda,MG,2025-02-16
+1055,Varejo,MG,2025-08-21
+1056,Corporate,DF,2025-11-01
+1057,Varejo,MG,2025-01-14
+1058,Varejo,DF,2025-05-23
+1059,Varejo,MG,2025-01-01
+1060,Varejo,RJ,2025-02-23
+1061,Varejo,MG,2025-09-16
+1062,Varejo,DF,2025-05-24
+1063,Alta Renda,SP - Interior,2025-01-12
+1064,Varejo,MG,2025-11-26
+1065,Varejo,SP - Interior,2025-08-12
+1066,Varejo,RJ,2025-09-29
+1067,Varejo,SP - Capital,2025-12-24
+1068,Alta Renda,RJ,2025-06-05
+1069,Varejo,MG,2025-01-08
+1070,Corporate,SP - Interior,2025-05-02
+1071,Alta Renda,SP - Interior,2025-12-14
+1072,Varejo,DF,2025-06-13
+1073,Varejo,SP - Interior,2025-03-31
+1074,Alta Renda,DF,2025-05-16
+1075,Alta Renda,SP - Capital,2025-07-05
+1076,Alta Renda,MG,2025-11-12
+1077,Alta Renda,DF,2025-06-27
+1078,Varejo,SP - Capital,2025-01-28
+1079,Varejo,SP - Interior,2025-08-08
+1080,Varejo,SP - Interior,2025-12-23
+1081,Alta Renda,SP - Capital,2025-02-10
+1082,Alta Renda,SP - Interior,2025-08-16
+1083,Varejo,SP - Capital,2025-07-11
+1084,Varejo,DF,2025-05-25
+1085,Varejo,DF,2025-07-20
+1086,Varejo,SP - Capital,2025-07-31
+1087,Alta Renda,DF,2025-08-08
+1088,Alta Renda,DF,2025-08-28
+1089,Alta Renda,DF,2025-02-15
+1090,Varejo,RJ,2025-02-04
+1091,Varejo,MG,2025-09-10
+1092,Alta Renda,SP - Interior,2025-03-23
+1093,Alta Renda,RJ,2025-09-13
+1094,Varejo,DF,2025-07-16
+1095,Alta Renda,SP - Capital,2025-10-30
+1096,Varejo,DF,2025-01-10
+1097,Varejo,MG,2025-11-08
+1098,Varejo,DF,2025-10-13
+1099,Varejo,SP - Capital,2025-08-30
+1100,Varejo,MG,2025-09-08
+1101,Varejo,DF,2025-12-31
+1102,Alta Renda,MG,2025-01-05
+1103,Varejo,SP - Interior,2025-04-29
+1104,Varejo,SP - Interior,2025-10-16
+1105,Corporate,DF,2025-03-06
+1106,Varejo,MG,2025-05-26
+1107,Varejo,SP - Capital,2025-08-12
+1108,Alta Renda,DF,2025-08-27
+1109,Varejo,SP - Interior,2025-06-26
+1110,Varejo,SP - Interior,2025-09-24
+1111,Varejo,DF,2025-12-07
+1112,Varejo,MG,2025-10-09
+1113,Corporate,SP - Interior,2025-03-04
+1114,Alta Renda,MG,2025-08-05
+1115,Alta Renda,SP - Interior,2025-12-08
+1116,Alta Renda,SP - Interior,2025-11-11
+1117,Alta Renda,RJ,2025-10-10
+1118,Varejo,SP - Interior,2025-06-26
+1119,Alta Renda,SP - Capital,2025-04-08
+1120,Varejo,DF,2025-04-15
+1121,Alta Renda,DF,2025-04-09
+1122,Alta Renda,MG,2025-11-07
+1123,Varejo,SP - Interior,2025-01-06
+1124,Varejo,SP - Capital,2025-07-16
+1125,Varejo,MG,2025-12-17
+1126,Varejo,RJ,2025-05-13
+1127,Alta Renda,MG,2025-12-24
+1128,Alta Renda,MG,2025-09-16
+1129,Varejo,SP - Interior,2025-01-23
+1130,Varejo,RJ,2025-02-22
+1131,Varejo,MG,2025-06-14
+1132,Varejo,SP - Capital,2025-07-21
+1133,Varejo,SP - Capital,2025-03-24
+1134,Varejo,DF,2025-05-25
+1135,Corporate,RJ,2025-03-26
+1136,Varejo,RJ,2025-03-19
+1137,Varejo,DF,2025-01-01
+1138,Alta Renda,MG,2025-02-20
+1139,Varejo,RJ,2025-06-22
+1140,Corporate,SP - Capital,2025-07-24
+1141,Corporate,SP - Capital,2025-09-17
+1142,Varejo,SP - Interior,2025-10-15
+1143,Varejo,RJ,2025-02-03
+1144,Varejo,MG,2025-12-14
+1145,Varejo,DF,2025-04-05
+1146,Varejo,DF,2025-03-13
+1147,Alta Renda,MG,2025-02-08
+1148,Varejo,SP - Interior,2025-06-03
+1149,Varejo,DF,2025-09-07
+1150,Varejo,RJ,2025-06-11
+1151,Corporate,SP - Interior,2025-04-28
+1152,Varejo,RJ,2025-09-16
+1153,Varejo,SP - Capital,2025-11-02
+1154,Varejo,SP - Interior,2025-09-25
+1155,Corporate,DF,2025-02-23
+1156,Varejo,SP - Interior,2025-08-24
+1157,Alta Renda,SP - Interior,2025-08-10
+1158,Alta Renda,SP - Interior,2025-09-08
+1159,Varejo,SP - Interior,2025-11-09
+1160,Alta Renda,RJ,2025-04-22
+1161,Varejo,SP - Capital,2025-09-12
+1162,Alta Renda,MG,2025-10-30
+1163,Alta Renda,SP - Interior,2025-07-26
+1164,Varejo,DF,2025-08-17
+1165,Varejo,SP - Interior,2025-12-07
+1166,Alta Renda,DF,2025-03-07
+1167,Varejo,RJ,2025-03-16
+1168,Varejo,DF,2025-04-13
+1169,Varejo,MG,2025-07-11
+1170,Varejo,SP - Capital,2025-09-09
+1171,Alta Renda,DF,2025-08-14
+1172,Varejo,DF,2025-10-21
+1173,Varejo,SP - Capital,2025-11-02
+1174,Varejo,MG,2025-04-08
+1175,Alta Renda,SP - Interior,2025-12-04
+1176,Varejo,DF,2025-10-13
+1177,Alta Renda,SP - Capital,2025-12-01
+1178,Varejo,RJ,2025-12-13
+1179,Corporate,SP - Capital,2025-11-04
+1180,Varejo,RJ,2025-09-06
+1181,Varejo,MG,2025-06-15
+1182,Varejo,SP - Interior,2025-12-01
+1183,Corporate,SP - Capital,2025-01-30
+1184,Alta Renda,DF,2025-09-04
+1185,Varejo,MG,2025-04-16
+1186,Alta Renda,SP - Capital,2025-02-20
+1187,Alta Renda,DF,2025-03-22
+1188,Varejo,SP - Capital,2025-05-13
+1189,Varejo,RJ,2025-10-12
+1190,Varejo,SP - Capital,2025-05-18
+1191,Varejo,SP - Capital,2025-07-03
+1192,Alta Renda,SP - Capital,2025-11-26
+1193,Corporate,MG,2025-09-30
+1194,Alta Renda,SP - Capital,2025-12-06
+1195,Varejo,DF,2025-03-10
+1196,Varejo,RJ,2025-02-03
+1197,Alta Renda,RJ,2025-09-19
+1198,Alta Renda,SP - Capital,2025-02-22
+1199,Alta Renda,MG,2025-07-24
+1200,Alta Renda,MG,2025-05-06
+1201,Alta Renda,DF,2025-08-23
+1202,Varejo,SP - Capital,2025-02-12
+1203,Varejo,RJ,2025-08-28
+1204,Alta Renda,MG,2025-04-21
+1205,Alta Renda,SP - Capital,2025-09-06
+1206,Varejo,MG,2025-05-31
+1207,Varejo,MG,2025-07-02
+1208,Alta Renda,RJ,2025-12-02
+1209,Varejo,SP - Interior,2025-04-05
+1210,Varejo,DF,2025-01-08
+1211,Varejo,DF,2025-12-26
+1212,Alta Renda,RJ,2025-07-03
+1213,Alta Renda,MG,2025-10-08
+1214,Varejo,SP - Capital,2025-07-14
+1215,Alta Renda,MG,2025-12-18
+1216,Varejo,RJ,2025-07-14
+1217,Varejo,DF,2025-06-04
+1218,Alta Renda,MG,2025-04-03
+1219,Alta Renda,DF,2025-06-09
+1220,Alta Renda,SP - Capital,2025-03-02
+1221,Alta Renda,DF,2025-05-02
+1222,Varejo,DF,2025-02-20
+1223,Varejo,SP - Interior,2025-10-04
+1224,Varejo,SP - Interior,2025-01-05
+1225,Varejo,SP - Interior,2025-04-02
+1226,Varejo,DF,2025-06-19
+1227,Corporate,RJ,2025-11-13
+1228,Varejo,DF,2025-01-22
+1229,Alta Renda,RJ,2025-11-22
+1230,Alta Renda,RJ,2025-01-01
+1231,Alta Renda,SP - Interior,2025-05-13
+1232,Varejo,MG,2025-08-21
+1233,Varejo,SP - Capital,2025-01-12
+1234,Varejo,SP - Interior,2025-12-12
+1235,Varejo,SP - Interior,2025-02-15
+1236,Alta Renda,MG,2025-02-03
+1237,Varejo,SP - Capital,2025-03-19
+1238,Varejo,DF,2025-08-06
+1239,Alta Renda,DF,2025-10-28
+1240,Varejo,SP - Interior,2025-03-14
+1241,Corporate,SP - Capital,2025-10-09
+1242,Corporate,SP - Interior,2025-09-06
+1243,Corporate,RJ,2025-02-16
+1244,Varejo,SP - Interior,2025-05-01
+1245,Varejo,SP - Interior,2025-08-02
+1246,Corporate,DF,2025-08-27
+1247,Varejo,DF,2025-02-25
+1248,Corporate,DF,2025-12-16
+1249,Corporate,RJ,2025-04-17
+1250,Alta Renda,DF,2025-11-15

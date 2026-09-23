@@ -1,0 +1,19 @@
+# Ambientes virtuais do Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Dependências de projetos Node.js / React
+node_modules/
+dist/
+build/
+
+# Arquivos de configuração local e chaves secretas
+.env
+.env.local
+
+# Arquivos do sistema operacional
+Thumbs.db
+.DS_Store

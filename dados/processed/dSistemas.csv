@@ -1,0 +1,5 @@
+﻿ID_Sistema;Sistema_Critico;Custo_Minuto_Downtime;SLA_Contratual_Mensal_Min
+501;Pix & Canais Digitais;8500,0;30
+502;Banco de Dados Central;12000,0;15
+503;Esteira de Credito PJ;4500,0;60
+504;Mensageria Swift (Cambio);6000,0;45
